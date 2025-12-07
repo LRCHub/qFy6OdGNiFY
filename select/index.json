@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "HOT (English ver.)",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2025-12-07T10:31:44.615466Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shut Up 받고 Crazy Hot! (English ver.)",
+      "artist": "ONEUS",
+      "has_synced": true,
+      "path": "select/01_Shut_Up_받고_Crazy_Hot!_(English_ver.)_ONEUS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "So Hot (English Ver.)",
+      "artist": "Wonder Girls",
+      "has_synced": true,
+      "path": "select/02_So_Hot_(English_Ver.)_Wonder_Girls.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HOT (English ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/03_HOT_(English_ver.)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HOT (English ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/04_HOT_(English_ver.)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HOT (English ver.) (feat. JADE)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/05_HOT_(English_ver.)_(feat._JADE)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HOT (English ver.) (feat. JADE)",
+      "artist": "LE SSERAFIM & JADE",
+      "has_synced": true,
+      "path": "select/06_HOT_(English_ver.)_(feat._JADE)_LE_SSERAFIM_&_JADE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HOT (English ver.) (feat. JADE)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/07_HOT_(English_ver.)_(feat._JADE)_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "HOT (English ver.)",
+      "artist": "LE SSERAFIM & JADE",
+      "has_synced": true,
+      "path": "select/08_HOT_(English_ver.)_LE_SSERAFIM_&_JADE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "HOT (English ver.)",
+      "artist": "LE SSERAFIM feat. JADE",
+      "has_synced": true,
+      "path": "select/09_HOT_(English_ver.)_LE_SSERAFIM_feat._JADE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "HOT (English ver.) (feat. JADE)",
+      "artist": "LE SSERAFIM\u0000﻿JADE",
+      "has_synced": true,
+      "path": "select/10_HOT_(English_ver.)_(feat._JADE)_LE_SSERAFIM\u0000﻿JADE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HOT (English ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_HOT_(English_ver.)_LE_SSERAFIM.txt"
+    }
+  ]
+}
